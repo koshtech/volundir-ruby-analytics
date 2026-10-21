@@ -1,0 +1,7 @@
+{
+  "name": "volundir-ruby-analytics",
+  "version": "0.0.1",
+  "description": "[:Volundir][:Ruby][:Analytics] Ingot adding telemetry routes.",
+  "dependencies": ["volundir-ruby-server"],
+  "comands": []
+}
